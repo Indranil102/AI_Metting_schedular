@@ -84,7 +84,7 @@ The primary objective is to demonstrate how NLP and Large Language Models can be
 **Indranil Samanta**
 
 - GitHub: [@Indranil102](https://github.com/Indranil102)
-- LinkedIn: [Connect with me](https://linkedin.com/in/indranil)
+- LinkedIn: [Connect with me]([https://linkedin.com/in/indranil](https://www.linkedin.com/in/indranil-samanta-26558a253/?isSelfProfile=true))
 
 ---
 
